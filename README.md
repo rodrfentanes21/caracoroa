@@ -1,6 +1,6 @@
 # Cara ou Coroa
 
-Heads or Tails app, parabens por chegar até aqui Utsch.
+Heads or Tails app.
 
 ## Project Made Using
 
